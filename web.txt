@@ -1,0 +1,3 @@
+The internet is the term used to refer to the worldwide network of servers and computers. These servers and computers communicate by sending and receiving data that allows us to visit and view web pages, interact with websites' databases, and do things like view our security camera footage or buy and sell stocks.
+
+Links are URLs, or Uniform Resource Locators. When you click on one, your browser looks at the domain name and gets the correct Internet Protocol address by using the Domain Name System. Your browser sends a get request for a path to the IP address using a protocol, typcally HTTP or HTTPS. The webserver sends a response in HTML and your browser interprets the HTML into a visual webpage.
